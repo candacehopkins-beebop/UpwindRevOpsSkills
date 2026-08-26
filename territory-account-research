@@ -1,0 +1,12 @@
+{
+  "name": "upwind-revops",
+  "owner": { "name": "Upwind Revenue Operations" },
+  "description": "RevOps skills for Upwind",
+  "plugins": [
+    {
+      "name": "revops-skills",
+      "source": "./plugins/revops-skills",
+      "description": "Territory and account research skills for Upwind sales reps"
+    }
+  ]
+}
