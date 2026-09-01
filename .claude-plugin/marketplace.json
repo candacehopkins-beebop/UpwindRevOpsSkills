@@ -1,12 +1,17 @@
 {
   "name": "upwind-revops",
   "owner": { "name": "Upwind Revenue Operations" },
-  "description": "RevOps skills for Upwind",
+  "description": "Skills for Upwind GTM teams",
   "plugins": [
     {
       "name": "revops-skills",
       "source": "./plugins/revops-skills",
       "description": "Territory and account research skills for Upwind sales reps"
+    },
+    {
+      "name": "legal-and-security",
+      "source": "./plugins/legal-and-security",
+      "description": "Upwind's approved answers to customer legal and security questions, maintained by Legal"
     }
   ]
 }
